@@ -1,1 +1,2 @@
-lorem ipsum and bugfix
+lorem ipsum feature2 and bugfix
+
