@@ -1,6 +1,4 @@
-lorem ipsum feature2 and feature4
+lorem ipsum feature2
 asfdsd
 
 sdf
-
-otherhunk
